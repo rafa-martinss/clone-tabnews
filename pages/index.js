@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Deus eu amo voce!</h1>
+    return <h1>Debora eu amo voce!</h1>
 }
 
 export default Home;
